@@ -1,0 +1,17 @@
+*{
+          margin: 0 auto;
+          padding: 0;
+          box-sizing: border-box;
+}
+.botão{
+background-color: aquamarine;
+border-radius: 10px;
+border: 3px;
+
+}
+.me{
+        
+border-style: solid;
+padding-left: 300px;
+}
+      
